@@ -9,3 +9,5 @@ VR学
 ≠ 仮想のお金（偽金）
 * バーチャルプレジデント = 名目上は大統領ではないが、実質的には大統領
 * 
+* **virtual** ⇔ nominal（名目上の）⇔ real  
+* **virtual** ≒ real（実）⇔ imaginary（嘘）
