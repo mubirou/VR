@@ -5,7 +5,7 @@ VR学
 
 * Existing in essence or effect though not in actual fact or form  
 * みかけや形はそのものではないが、本質的あるいは効果としてはそのものである
-* virtual（実質･本質）、real（実）
+* **virtual**（**実質**･**本質**）、real（実）
 * supposed（仮想）、nominal（名目･表層）、imaginary（虚）
 * バーチャルマネー、バーチャルプレジデント、バーチャルカンパニー
 * 虚像（=バーチャルイメージ?）、仮想敵国（≠​バーチャルエニミー）
