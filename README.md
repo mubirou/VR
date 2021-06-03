@@ -1,4 +1,4 @@
-# VR
+# Virtual Reality
 教科書：『[バーチャルリアリティ学](https://amzn.to/3uGdfYU)』
 
 ### 1.1.1 バーチャルの意味
