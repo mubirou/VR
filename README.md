@@ -70,6 +70,9 @@
 * 1億8000年前：南仏ラスコー洞窟の壁画
 * 18～19世紀：全天周絵画パノラマ（画家Robert Barkerによる手法）
 * 1900年：ムービングパノラマ（Mareoramaの作品）
+* 1963年：SENSORAMA（M.Heiligのバイク体感型ゲーム）
+* 1967年：GROPEプロジェクト（F.Brooks氏･マスターアームでCG映像に触る）
 * 1968年：最初のHMD（I.Sutherland "Ultimate Display"）
+* 1969年：インタラクティブアート（M.Krueger "METAPLAY" "Videoplace"）
 * 1989年："VR"という言葉が登場（米VPL社 EyePhoneとDataGlove） 
 * 
