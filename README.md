@@ -67,4 +67,6 @@
 
 ### 1.3 VRの歴史
 
-* 1989年 "VR"登場（米VPL社 EyePhoneとDataGlove） 
+* 1億8000年前：南仏ラスコー洞窟の壁画
+* 1989年："VR"という言葉が登場（米VPL社 EyePhoneとDataGlove） 
+* 
