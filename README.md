@@ -67,7 +67,9 @@
 
 ### 1.3 VRの歴史
 
-* 南仏ラスコー洞窟の壁画（1億8000年前）
-* 全天周絵画パノラマ（18～19世紀/画家Robert Barkerによる手法）
+* 1億8000年前：南仏ラスコー洞窟の壁画
+* 18～19世紀：全天周絵画パノラマ（画家Robert Barkerによる手法）
+* 1900年：ムービングパノラマ（Mareoramaの作品）
+* 1968年：最初のHMD（I.Sutherland "Ultimate Display"）
 * 1989年："VR"という言葉が登場（米VPL社 EyePhoneとDataGlove） 
 * 
