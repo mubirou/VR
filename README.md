@@ -71,8 +71,12 @@
 * 18～19世紀：全天周絵画パノラマ（画家Robert Barkerによる手法）
 * 1900年：ムービングパノラマ（Mareoramaの作品）
 * 1963年：SENSORAMA（M.Heiligのバイク体感型ゲーム）
-* 1967年：GROPEプロジェクト（F.Brooks氏･マスターアームでCG映像に触る）
+* 1967年：GROPEプロジェクト（F.Brooks･マスターアームでCG映像に触る）
 * 1968年：最初のHMD（I.Sutherland "Ultimate Display"）
 * 1969年：インタラクティブアート（M.Krueger "METAPLAY" "Videoplace"）
+* 1982年：スーパーコックピット（T.Furness･HMDを使った戦闘機）
+* 1981年：MIT "Media Room"（部屋全体を利用した空間型インターフェース）
+* 1982年："TELESA"（テレイグジスタンスロボット）
+* 1983年："Greenman"（テレプレゼンスロボット）
+* 1985年：NASA Virtual Enviromnment（宇宙船内コックピット設計）
 * 1989年："VR"という言葉が登場（米VPL社 EyePhoneとDataGlove） 
-* 
