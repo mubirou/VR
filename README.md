@@ -80,3 +80,5 @@
 * 1983年："Greenman"（テレプレゼンスロボット）
 * 1985年：NASA Virtual Enviromnment（宇宙船内コックピット設計）
 * 1989年："VR"という言葉が登場（米VPL社 EyePhoneとDataGlove） 
+
+### 2.1.1 脳神経系の解剖学的構造と神経生理学の基礎
