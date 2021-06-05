@@ -95,4 +95,4 @@
 * 視覚野：網膜からの視覚情報を処理
 * 聴覚野：聴覚情報を処理
 * 頭頂連合野：体性感覚･視覚･聴覚情報を総合的に解釈
-https://mubirou.github.io/VR/jpg/cerebrum.jpg
+![cerebrum](https://mubirou.github.io/VR/jpg/cerebrum.jpg)
