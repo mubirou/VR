@@ -89,6 +89,7 @@
 * 1989年："VR"という言葉が登場（米VPL社 EyePhoneとDataGlove） 
 
 ### 2.1.1 脳神経系の解剖学的構造と神経生理学の基礎
+[参考動画](https://www.youtube.com/watch?v=yubKCwwvNUY)
 
 * **運動野**：体の筋肉に指令を出す
 * **感覚野**：体が受取る感覚を処理
@@ -96,8 +97,6 @@
 * **聴覚野**：聴覚情報を処理
 * **頭頂連合野**：体性感覚･視覚･聴覚情報を総合的に解釈  
 ![cerebrum](jpg/cerebrum.jpg)
-
-[参考動画](https://www.youtube.com/watch?v=yubKCwwvNUY)
 
 ### 2.1.2 知覚･認知心理学の基礎
 
@@ -117,6 +116,7 @@
     * **仮現運動**（apperent motion）：映画やテレビの映像
 
 ### 2.2.1 視覚の受容器と神経系
+[参考動画](https://www.youtube.com/watch?v=T72AyXHqKLo&t=650s)
 
 ![cerebrum](jpg/eyeball.jpg)
 * 光→角膜→水晶体→硝子体→**網膜**（retina）
@@ -125,5 +125,3 @@
     * **錐体**（すいたい/cone）…明所視に対応  
     （Ｓ錐体＝青）、Ｍ錐体＝緑）、Ｌ錐体（赤）の３種）
     * **桿体**（かんたい/rod）…暗所視に対応  
-
-[参考動画](https://www.youtube.com/watch?v=T72AyXHqKLo&t=650s)
