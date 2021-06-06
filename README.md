@@ -117,4 +117,5 @@
 ### 2.2.1 視覚の受容器と神経系
 
 ![cerebrum](jpg/eyeball.jpg)
-* 光は（角膜→水晶体→硝子体→網膜（retina）の中の視細胞（photoreceptor）で電気信号に変換
+* 光は（角膜→水晶体→硝子体→網膜（retina）へ
+* 網膜の中の視細胞（photoreceptor）で電気信号に変換
