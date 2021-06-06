@@ -124,4 +124,4 @@
     （Ｓ錐体＝青）、Ｍ錐体＝緑）、Ｌ錐体（赤）の３種）
     * **桿体**（かんたい/rod）…暗所視に対応  
 
-（参考）[高校生物](https://www.youtube.com/watch?v=T72AyXHqKLo&t=650s)
+（参考）[高校生物･視覚器](https://www.youtube.com/watch?v=T72AyXHqKLo&t=650s)
