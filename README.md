@@ -118,4 +118,4 @@
 
 ![cerebrum](jpg/eyeball.jpg)
 * 光→角膜→水晶体→硝子体→**網膜**（retina）
-* 網膜の中の**視細胞**（photoreceptor）で光エネルギーから電気信号に変換
+* 網膜の中の**視細胞**（photoreceptor）で電気信号に変換
