@@ -116,3 +116,4 @@
 
 ### 2.2.1 視覚の受容器と神経系
 
+![cerebrum](jpg/eyeball.jpg)
