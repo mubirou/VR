@@ -97,6 +97,8 @@
 * **頭頂連合野**：体性感覚･視覚･聴覚情報を総合的に解釈  
 ![cerebrum](jpg/cerebrum.jpg)
 
+[参考動画](https://www.youtube.com/watch?v=yubKCwwvNUY)
+
 ### 2.1.2 知覚･認知心理学の基礎
 
 * 平面画像から立体的な情報を知覚する手がかり
@@ -124,4 +126,4 @@
     （Ｓ錐体＝青）、Ｍ錐体＝緑）、Ｌ錐体（赤）の３種）
     * **桿体**（かんたい/rod）…暗所視に対応  
 
-（参考）[高校生物･視覚器](https://www.youtube.com/watch?v=T72AyXHqKLo&t=650s)
+[参考動画](https://www.youtube.com/watch?v=T72AyXHqKLo&t=650s)
