@@ -3,17 +3,47 @@
 
 <svg
    width="105.10399mm"
-   height="108.91756mm"
-   viewBox="0 0 105.10399 108.91756"
+   height="108.48083mm"
+   viewBox="0 0 105.10399 108.48083"
    version="1.1"
    id="svg5"
+   sodipodi:docname="cerebrum.svg"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   inkscape:export-filename="/home/none/VR/jpg/cerebrum.jpg"
+   inkscape:export-xdpi="46.828548"
+   inkscape:export-ydpi="46.828548"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview33"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4"
+     inkscape:cx="218.21429"
+     inkscape:cy="176.78571"
+     inkscape:window-width="1864"
+     inkscape:window-height="1009"
+     inkscape:window-x="56"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs2" />
   <g
      id="layer1"
-     transform="translate(-29.331665,-30.407402)">
+     transform="translate(-29.331665,-30.844133)">
     <path
        style="fill:#000000;stroke-width:0.264583"
        d="M 78.216207,139.18133 C 65.232595,137.85202 54.38533,133.01969 45.576652,124.6408 32.636592,112.3321 26.828047,93.927458 30.338643,76.358477 33.950575,58.282351 47.08337,43.093968 64.325582,37.051792 c 6.536428,-2.290557 11.478411,-3.027274 19.05,-2.839847 6.094957,0.150875 9.452755,0.688059 14.626454,2.339956 12.931134,4.128749 24.289774,13.729996 30.466964,25.753167 6.21048,12.087965 7.64002,26.024453 3.97248,38.727662 -5.28828,18.31699 -19.41027,32.0208 -37.802345,36.68295 -5.085784,1.28919 -12.063931,1.91194 -16.422928,1.46565 z m 11.773958,-2.48973 c 8.43874,-1.48666 16.706655,-5.0615 22.688025,-9.80973 l 1.52135,-1.20771 V 108.87699 92.079817 H 87.917075 c -14.455356,0 -33.079909,-0.07893 -41.387896,-0.1754 l -15.105431,-0.1754 0.139187,1.167587 c 1.088007,9.126826 5.353738,18.971176 11.340229,26.170716 2.174326,2.61491 6.118241,6.38989 8.590127,8.22219 7.223701,5.35458 16.345267,9.01925 24.341666,9.77947 3.128446,0.29742 11.60804,0.0713 14.155208,-0.37738 z m 28.133385,-14.57586 c 7.09518,-7.58477 11.53314,-16.10609 13.57595,-26.067173 0.55829,-2.722285 0.62289,-3.725346 0.61347,-9.525 -0.01,-6.013225 -0.0621,-6.72448 -0.72376,-9.829225 -2.12667,-9.979464 -6.63034,-18.457039 -13.64825,-25.691086 -2.27234,-2.342322 -2.26661,-2.35186 -2.06421,3.439583 0.0954,2.728516 0.17371,19.456796 0.17412,37.173957 5.3e-4,18.517244 0.10035,32.213024 0.235,32.213024 0.12883,0 0.95579,-0.77134 1.83768,-1.71408 z M 75.04412,64.232422 c 0.0016,-14.151901 0.07671,-26.177213 0.16691,-26.722916 0.153334,-0.927672 0.120594,-0.992187 -0.503489,-0.992187 -0.367117,0 -1.854076,0.237875 -3.304355,0.528611 -8.772858,1.758689 -17.550307,6.351102 -24.171287,12.646559 -8.308756,7.900252 -13.404632,17.408974 -15.333796,28.612316 -0.533348,3.097342 -0.988338,10.463291 -0.693732,11.231022 0.149119,0.388599 2.142791,0.427324 22.000409,0.427324 h 21.836427 l 0.0029,-25.730729 z m 38.99482,25.312213 c 0.0883,-0.230182 0.1606,-9.74721 0.1606,-21.148952 V 47.665246 l -1.12448,-0.912683 c -2.04549,-1.660224 -6.10898,-4.182363 -9.06198,-5.62462 -5.089145,-2.485562 -10.989674,-4.172956 -17.107742,-4.892357 -2.406695,-0.282995 -9.579994,-0.270454 -9.809618,0.01715 -0.05809,0.07276 -0.0541,12.18737 0.0089,26.921354 l 0.11449,26.789062 h 18.329632 c 16.470158,0 18.345928,-0.04246 18.490238,-0.418516 z"
@@ -34,50 +64,49 @@
        id="path30594"
        transform="scale(0.26458333)" />
     <path
-       style="fill:#ffd376;fill-opacity:1;stroke:none;stroke-width:529.002"
-       d="m 270.83237,515.82843 c -56.94247,-12.1816 -105.86906,-49.79948 -131.80229,-101.338 -8.51919,-16.93064 -15.71943,-38.08446 -18.60363,-54.6562 -1.19395,-6.86005 -2.01002,-12.62562 -1.81349,-12.8124 0.19653,-0.18678 70.74225,0.0114 156.76827,0.44035 l 156.41094,0.77995 v 63.44914 63.44914 l -8.02239,6.2965 c -19.46044,15.27382 -54.36024,30.14091 -82.08849,34.96915 -17.70407,3.08275 -55.1663,2.77732 -70.84892,-0.57763 z"
-       id="path53790"
-       transform="scale(0.26458333)" />
+       style="fill:#ffd376;fill-opacity:1;stroke:none;stroke-width:139.965"
+       d="m 71.61226,136.43953 c -15.066028,-3.22305 -28.011188,-13.17611 -34.872689,-26.81234 -2.254035,-4.47957 -4.159099,-10.076517 -4.92221,-14.461123 -0.315899,-1.815055 -0.531818,-3.340529 -0.479819,-3.389948 0.052,-0.04942 18.71722,0.003 41.478271,0.11651 l 41.383727,0.206362 v 16.787589 16.78758 l -2.12259,1.66595 c -5.14891,4.0412 -14.382814,7.97478 -21.719247,9.25225 -4.684201,0.81565 -14.596083,0.73484 -18.745443,-0.15283 z"
+       id="path53790" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="68.602409"
-       y="53.016521"
+       x="84.643211"
+       y="37.787212"
        id="text57206"><tspan
          id="tspan57204"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="53.016521"
-         y="68.602409">運動野</tspan></text>
+         x="69.05732"
+         y="53.3731">運動野</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="83.340202"
-       y="52.53603"
+       x="114.01009"
+       y="21.169867"
        id="text57206-3"><tspan
          id="tspan57204-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="52.53603"
-         y="83.340202">感覚野</tspan></text>
+         x="83.205917"
+         y="51.974037">感覚野</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="104.45758"
-       y="46.162556"
+       x="162.565"
+       y="-12.517763"
        id="text57206-3-6"><tspan
          id="tspan57204-6-2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;stroke-width:0.264583"
-         x="46.162556"
-         y="104.45758">頭頂</tspan></text>
+         x="104.26997"
+         y="45.77726">頭頂</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="123.28716"
-       y="71.436005"
+       x="176.13564"
+       y="20.88373"
        id="text57206-3-7"><tspan
          id="tspan57204-6-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="71.436005"
-         y="123.28716">視覚野</tspan></text>
+         x="124.28448"
+         y="72.734886">視覚野</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -88,16 +117,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:lr-tb;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="59.844559"
          y="101.83167">聴覚野</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.93814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="75.427658"
-       y="30.791065"
-       id="text57206-3-7-3-0"><tspan
-         id="tspan57204-6-5-5-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;stroke:#ffffff;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="30.791065"
-         y="75.427658">中心溝</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -123,6 +142,28 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="128.89948"
+       y="-12.581835"
+       id="text88080-2-9"
+       transform="rotate(59.839385)"><tspan
+         id="tspan88078-7-1"
+         style="fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+         x="128.89948"
+         y="-12.581835">➡</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-6.8816857"
+       y="-152.27852"
+       id="text88080-2-9-2"
+       transform="rotate(134.46953)"><tspan
+         id="tspan88078-7-1-7"
+         style="fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+         x="-6.8816857"
+         y="-152.27852">➡</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-136.51718"
        y="-42.118168"
        id="text88080-9"
@@ -134,24 +175,64 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="104.45758"
-       y="46.162556"
+       x="162.565"
+       y="-12.517763"
        id="text57206-3-6-3"><tspan
          id="tspan57204-6-2-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;stroke-width:0.264583"
-         x="46.162556"
-         y="104.45758">    <tspan
+         x="104.26997"
+         y="45.77726">    <tspan
    style="stroke:#000000;stroke-opacity:1"
    id="tspan139738">連合野</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.93814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.173454"
-       x="75.427658"
-       y="30.791065"
-       id="text57206-3-7-3-0-0"><tspan
-         id="tspan57204-6-5-5-9-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;stroke-width:0.173454"
-         x="30.791065"
-         y="75.427658">中心溝</tspan></text>
+    <g
+       id="g14346"
+       transform="translate(4.8632829,-1.4226706)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="120.28489"
+         y="63.725811"
+         id="text57206-3-6-6"><tspan
+           id="tspan57204-6-2-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:lr-tb;stroke-width:0.264583"
+           x="61.989853"
+           y="122.02084">側頭</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="120.24332"
+         y="63.740177"
+         id="text57206-3-6-3-5"><tspan
+           id="tspan57204-6-2-6-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:lr-tb;stroke-width:0.264583"
+           x="61.948296"
+           y="122.0352">    <tspan
+   style="writing-mode:lr-tb;stroke:#000000;stroke-opacity:1"
+   id="tspan139738-5">連合野</tspan></tspan></text>
+    </g>
+    <g
+       id="g854"
+       transform="translate(44.976889,-44.199862)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.93814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="75.427658"
+         y="30.791065"
+         id="text57206-3-7-3-0"><tspan
+           id="tspan57204-6-5-5-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;stroke:#ffffff;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="30.791065"
+           y="75.427658">中心溝</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.93814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.173454"
+         x="75.427658"
+         y="30.791065"
+         id="text57206-3-7-3-0-0"><tspan
+           id="tspan57204-6-5-5-9-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;stroke-width:0.173454"
+           x="30.791065"
+           y="75.427658">中心溝</tspan></text>
+    </g>
   </g>
 </svg>
