@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="165.05666mm"
+   width="240.35271mm"
    height="120.2934mm"
-   viewBox="0 0 165.05666 120.2934"
+   viewBox="0 0 240.35271 120.2934"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
    sodipodi:docname="eyeball.svg"
-   inkscape:export-filename="/home/none/VR/jpg/eyeball.png"
+   inkscape:export-filename="/home/none/VR/jpg/eyeball.jpg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,8 +27,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.7"
-     inkscape:cx="461.42857"
-     inkscape:cy="315"
+     inkscape:cx="462.14286"
+     inkscape:cy="313.57143"
      inkscape:window-width="1864"
      inkscape:window-height="1009"
      inkscape:window-x="56"
@@ -39,7 +39,10 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:snap-global="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false" />
   <defs
      id="defs2" />
   <g
@@ -47,6 +50,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-13.932911,-65.565975)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:59.032;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16800"
+       width="240.3528"
+       height="120.29334"
+       x="13.932911"
+       y="65.565979" />
     <circle
        style="fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:1.323;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path846"
@@ -72,9 +82,13 @@
        rx="9.0859804"
        ry="22.852974" />
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:19.8438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 138.08605,148.49989 174.58241,166.594"
+       style="fill:#ff9900;fill-opacity:1;stroke:#ff9900;stroke-width:19.844;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 138.32589,145.52849 37.97978,14.72809"
        id="path26876" />
+    <path
+       style="fill:#ff9900;fill-opacity:1;stroke:#ff9900;stroke-width:19.844;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 183.53131,163.83751 40.73388,0.36261"
+       id="path26876-3" />
     <g
        id="path7443-3"
        style="stroke:#ff85f0;stroke-width:7.00069;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -115,9 +129,20 @@
        id="text32616-6-5"><tspan
          sodipodi:role="line"
          id="tspan32614-7-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;stroke:#000000;stroke-width:0.302;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.302;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="107.43478"
          y="91.172691">硝子体</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.0943px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.302;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="206.41882"
+       y="168.9023"
+       id="text32616-6-5-53"><tspan
+         sodipodi:role="line"
+         id="tspan32614-7-3-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.302;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="206.41882"
+         y="168.9023">視覚野へ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.0943px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.302;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -129,5 +154,27 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;stroke:#000000;stroke-width:0.302;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="113.53506"
          y="139.88016">網膜</tspan></text>
+    <circle
+       style="fill:#ff9900;fill-opacity:1;stroke-width:0.302001;stroke-linecap:round"
+       id="path7096"
+       cx="182.26624"
+       cy="163.43509"
+       r="15.926492" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.46007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 163.32671,136.23993 c 6.12533,7.63746 -10.30242,10.40788 -5.58279,17.46895 4.71962,7.06106 -7.73456,8.08405 -4.569,15.43477 l 3.82989,8.89338"
+       id="path7271"
+       sodipodi:nodetypes="cssc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.7523px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26849;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="182.33949"
+       y="128.91815"
+       id="text32616-6-5-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan32614-7-3-6-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;stroke:#000000;stroke-width:0.26849;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="128.91815"
+         y="182.33949">外側膝状体</tspan></text>
   </g>
 </svg>
