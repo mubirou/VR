@@ -28,7 +28,7 @@
      showgrid="false"
      inkscape:zoom="0.7"
      inkscape:cx="462.14286"
-     inkscape:cy="313.57143"
+     inkscape:cy="542.14286"
      inkscape:window-width="1864"
      inkscape:window-height="1009"
      inkscape:window-x="56"
@@ -187,5 +187,11 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;stroke:#000000;stroke-width:0.26849;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="123.29293"
          y="191.38658">がいそくしつじょうたい</tspan></text>
+    <path
+       id="rect10252"
+       style="fill:none;stroke:#000000;stroke-width:5.67621;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 478.24236,280.45598 445.34375,622.83984 H 35.890625 V 911.3418 H 849.65234 V 622.83984 H 487.26758 c -3.03603,-143.5721 -4.61882,-240.55654 -9.02522,-342.38386 z"
+       transform="matrix(0.26458333,0,0,0.26458333,13.932911,65.565975)"
+       sodipodi:nodetypes="cccccccc" />
   </g>
 </svg>
