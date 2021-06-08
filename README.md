@@ -92,6 +92,7 @@
 
 ## 第２章 ヒトと感覚
 
+<a name="cerebrum"></a>
 ### 2.1.1 脳神経系の解剖学的構造と神経生理学の基礎
 [参考動画](https://www.youtube.com/watch?v=yubKCwwvNUY)
 
@@ -100,7 +101,6 @@
 * **視覚野**：網膜からの視覚情報を処理
 * **聴覚野**：聴覚情報を処理
 * **頭頂連合野**：体性感覚･視覚･聴覚情報を総合的に解釈  
-<a name="cerebrum"></a>
 ![cerebrum](jpg/cerebrum.jpg)
 
 ### 2.1.2 知覚･認知心理学の基礎
