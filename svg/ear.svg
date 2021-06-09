@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
    sodipodi:docname="ear.svg"
+   inkscape:export-filename="/home/none/VR/jpg/ear.jpg"
+   inkscape:export-xdpi="56.470001"
+   inkscape:export-ydpi="56.470001"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -19,14 +22,14 @@
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:zoom="6.9870322"
-     inkscape:cx="399.52585"
-     inkscape:cy="207.59887"
+     inkscape:zoom="1.7587492"
+     inkscape:cx="255.01077"
+     inkscape:cy="131.05905"
      inkscape:window-width="1864"
      inkscape:window-height="1009"
      inkscape:window-x="1136"
@@ -37,7 +40,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false" />
   <defs
      id="defs2" />
   <g
@@ -137,6 +141,17 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:lr-tb;stroke-width:0.147616"
          x="53.727173"
          y="99.975937">外耳道</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.147616"
+       x="77.095444"
+       y="68.409554"
+       id="text13094-7-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan13092-0-3-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:lr-tb;stroke-width:0.147616"
+         x="77.095444"
+         y="68.409554" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19646"
