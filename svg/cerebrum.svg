@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="105.10399mm"
+   width="123.78372mm"
    height="108.48083mm"
-   viewBox="0 0 105.10399 108.48083"
+   viewBox="0 0 123.78372 108.48083"
    version="1.1"
    id="svg5"
    sodipodi:docname="cerebrum.svg"
@@ -22,17 +22,17 @@
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.4"
-     inkscape:cx="218.21429"
+     inkscape:cx="253.21429"
      inkscape:cy="176.07143"
      inkscape:window-width="1864"
      inkscape:window-height="1009"
-     inkscape:window-x="56"
-     inkscape:window-y="34"
+     inkscape:window-x="1136"
+     inkscape:window-y="874"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      fit-margin-top="0"
@@ -43,7 +43,7 @@
      id="defs2" />
   <g
      id="layer1"
-     transform="translate(-29.331665,-30.844133)">
+     transform="translate(-20.056428,-30.844133)">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.03044;stroke-linecap:round"
        id="rect969"
@@ -104,6 +104,26 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;stroke-width:0.264583"
          x="104.26997"
          y="45.77726">頭頂</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="82.245789"
+       y="27.851995"
+       id="text57206-3-6-36"><tspan
+         id="tspan57204-6-2-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;stroke-width:0.264583"
+         x="23.950766"
+         y="86.147018">前</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="198.24084"
+       y="27.847862"
+       id="text57206-3-6-36-5"><tspan
+         id="tspan57204-6-2-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:MotoyaLMaru;-inkscape-font-specification:MotoyaLMaru;writing-mode:tb-rl;stroke-width:0.264583"
+         x="139.94582"
+         y="86.142883">後</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
